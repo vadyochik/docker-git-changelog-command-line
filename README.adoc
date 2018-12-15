@@ -1,0 +1,8 @@
+= git-changelog-command-line docker image
+
+https://github.com/tomasbjerre/git-changelog-command-line
+
+.Build image
+----
+docker build -t vadyochik/git-changelog-command-line .
+----
